@@ -1,6 +1,6 @@
-### Dart Expert  : 
+## Dart Expert  : 
 
-#### Dart Novice to Expert  => Complete Notes 
+## Dart Novice to Expert  => Complete Notes 
 
 #### Dart Logo  - Dart from the dart Arrow which makes sense the qualities of Dart Arrow in Dart Programming Language 
 #### Precision - Dart language is more precision . It should be optimised as much as possible
@@ -10,7 +10,7 @@
 #### Strong platform - Here Platform is Flutter , where Dart is the Basic Foundation of Flutter
 
 
-#### Dart Introduction : Dart is Type Safe Language , means the operations that are performed on data is purely depends on Type of the Data ( int , String , Bool .. etc )
+## Dart Introduction : Dart is Type Safe Language , means the operations that are performed on data is purely depends on Type of the Data ( int , String , Bool .. etc )
 
 #### Eg - 
 
@@ -23,7 +23,7 @@
 #### Eg  =  Dynamic a = 3.4; => It is Basically Checked on Run Time and throws exceptions . It Automatically Assigns to the type of data here it is float .
 #### where Type Interface comes here
 
-#### Type Interface :
+## Type Interface :
 
 #### Types are mandatory in Dart , but aswell we don’t need to annotate each time bcoz 
 #### var and dynamic Keyword plays Major Role here 
@@ -39,10 +39,10 @@
 #### Changing dynamic now the run time check analyser automatically assigned a null value , btw using null is not a good practice .
 
 
-#### Null Safety : Null Safety is like var cannot be null unless you specify
+## Null Safety : Null Safety is like var cannot be null unless you specify
 #### Sound Null Safety : Variables are checked by both analyzer and assigned to null or non null values but both cannot be there
 
-#### How is Dart code converted into executable code ? 
+## How is Dart code converted into executable code ? 
 
 #### Any Other programming Languages uses compiler , by the same way dart uses dart compiler which converts source code into machine code or intermediate launguage.
 
@@ -112,7 +112,7 @@
 #### Basically the source code are loaded into Dart Kernal Binary which produce you the intermediate language, .dll format .
 #### It forms you HEAP and then objects are referenced into heap from kernel binary and in production(Run time ) phase everything is executed 
 
-#### PUBSPEC.YAML
+## PUBSPEC.YAML
 
 #### In Pubspec.yaml we need to specify the dependencies required for the project . There are four types of Dependencies = Immediate , Transitive , Regular & Dev .
 
@@ -127,10 +127,7 @@
 #### Always test your code . .. . . 
 
 
-
-
-
-
+## NULL SAFETY ........ 
 
 
 
