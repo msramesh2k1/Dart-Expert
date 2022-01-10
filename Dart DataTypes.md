@@ -27,3 +27,21 @@
 <img width="755" alt="Screenshot 2022-01-07 173228" src="https://user-images.githubusercontent.com/71007973/148543498-540e618d-ad3c-4ce4-9e23-5ff9ba5ca140.png">
 <img width="674" alt="Screenshot 2022-01-07 173505" src="https://user-images.githubusercontent.com/71007973/148543500-c6982518-bb25-402e-9dd8-713f99ac774e.png">
 
+### Sets
+
+##### List and Set both are interfaces. The important differences between set and list are:
+#
+##### Duplicate Objects
+###### The main difference between List and Set is that List allows duplicates while Set doesn't allow duplicates.
+#
+##### Order
+###### List is an ordered collection it maintains the insertion order, which means upon displaying the list content it will display the elements in the same order in which they got inserted into the list.
+#
+##### Set
+###### Set is an unordered collection, it doesn’t maintain any order. There are few implementations of Set which maintains the order such as LinkedHashSet (It maintains the elements in insertion order).
+#
+##### Null elements
+###### List allows any number of null elements. Set can have only a single null elements at most.
+
+<img width="357" alt="t1" src="https://user-images.githubusercontent.com/71007973/148709525-711837ed-97c8-44f4-9270-4237e88b1ce8.png">
+
