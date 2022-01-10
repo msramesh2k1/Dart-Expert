@@ -45,3 +45,28 @@
 
 <img width="357" alt="t1" src="https://user-images.githubusercontent.com/71007973/148709525-711837ed-97c8-44f4-9270-4237e88b1ce8.png">
 
+### Map
+
+##### Map object is a simple key/value pair. It may be of any type. A Map is a dynamic collection.
+<img width="584" alt="t2" src="https://user-images.githubusercontent.com/71007973/148710608-20352c64-b1a8-4bb5-bf03-24d0ec5a4b14.png">
+
+###### Here Both ( set and Map ) Uses Curly Brackets , empty declaraction makes map , whereas declearing values in brackets makes sets..
+#
+### Maps can be declared in two ways −
+- Map Literals
+- Map constructor
+#
+##### Map Literals
+###### To declare a map using map literals, you need to enclose the key-value pairs within a pair of curly brackets "{ }".
+<img width="815" alt="t3" src="https://user-images.githubusercontent.com/71007973/148710601-20214762-d21e-44ba-95bf-1668b8a50f08.png">
+
+#
+#####  Map Constructor
+###### To declare a Map using a Map constructor, we have two steps. First, declare the map and second, initialize the map.
+<img width="921" alt="t5" src="https://user-images.githubusercontent.com/71007973/148710607-bbf6c383-f998-454e-b3cc-8dfaf00ace39.png">
+
+#
+##### cascade operator in map
+
+<img width="824" alt="t6" src="https://user-images.githubusercontent.com/71007973/148711005-bb8d9979-3611-4715-8ba0-c0a205c4d406.png">
+
